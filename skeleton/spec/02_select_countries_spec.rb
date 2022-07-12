@@ -1,4 +1,4 @@
-require 'rspec'
+git fetch require 'rspec'
 require '02_select_countries'
 
 describe 'SELECT from world' do

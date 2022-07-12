@@ -13,7 +13,7 @@ require_relative './sqlzoo.rb'
 def example_select
   execute(<<-SQL)
     SELECT
-      population
+      continent
     FROM
       countries
     WHERE
